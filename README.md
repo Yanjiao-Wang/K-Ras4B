@@ -1,5 +1,5 @@
 # K-Ras4B
-The Codes Used for Molecular Dynamics Simulations in “A Comprehensive View of K-Ras4B Transformations Regulated by Oncogenic G12D Mutation and Phosphorylation in Phase-Segregated Membranes”
+The Codes Used for Molecular Dynamics Simulations in “A Full-scaled Perspective of K-Ras4B Transformations Modulated by Oncogenic G12D and Phosphorylation in Phase-Segregated Membrane”
 
 python2 insane.py -f marker.pdb -pbc rectangular -x 20 -y 20 -z 13 -u DPPC:40 -u DIPC:40 -u CHOL:20 -l DPPC:39 -l DIPC:39 -l CHOL:20 -l POP6:2 -o membrane.gro -dm -5.5 -sol W
 
